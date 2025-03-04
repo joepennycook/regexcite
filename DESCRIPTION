@@ -1,9 +1,9 @@
 Package: regexcite
-Title: What the Package Does (One Line, Title Case)
+Title: Helps With Regex
 Version: 0.0.0.9000
 Authors@R: 
-    person("First", "Last", , "first.last@example.com", role = c("aut", "cre"))
-Description: What the package does (one paragraph).
+    person("Joseph", "Pennycook", , "joe.pennycook@hotmail.co.uk", role = c("aut", "cre"))
+Description: Package built as a test to help me learn/remember how packages work.
 License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
     license
 Encoding: UTF-8
