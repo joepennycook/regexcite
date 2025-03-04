@@ -4,8 +4,7 @@ Version: 0.0.0.9000
 Authors@R: 
     person("Joseph", "Pennycook", , "joe.pennycook@hotmail.co.uk", role = c("aut", "cre"))
 Description: Package built as a test to help me learn/remember how packages work.
-License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
-    license
+License: MIT + file LICENSE
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.3.2
